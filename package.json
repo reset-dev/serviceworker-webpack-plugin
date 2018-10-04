@@ -71,7 +71,7 @@
     "html-webpack-plugin": "^3.0.6",
     "loglevel": "^1.6.1",
     "mocha": "^5.0.4",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.9.3",
     "pkgfiles": "^2.3.2",
     "postcss-loader": "^2.1.1",
     "prettier": "^1.11.1",
