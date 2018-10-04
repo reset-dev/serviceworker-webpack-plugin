@@ -9,4 +9,5 @@ export default {
 
     return false
   },
+  serviceWorkerOption,
 }
